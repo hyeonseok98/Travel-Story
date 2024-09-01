@@ -1,3 +1,10 @@
+# ✈️ Travel Story
+- 서비스 소개: Travel Story는 다양한 해외 여행지 정보를 제공하고, 맞춤형 여행 일정을 손쉽게 계획할 수 있는 서비스입니다. 
+
+- 사용자가 일정을 등록하면 자동으로 경로가 지도에 시각화되며, 이를 통해 편리하게 여행을 준비하고 관리할 수 있습니다.
+
+<br>
+
 ## 👨‍👩‍👧‍👦 Our Team
 
 |                  이효현                  |                 박요셉                 |                     임현석                     |                    박초원                    |                      이준혁                       | 김인우 |
@@ -9,7 +16,7 @@
 
 ### [👊 프로젝트 노션 바로가기](https://www.notion.so/teamsparta/1-B1-cf05aab3c68a4955a33a2c82d764ff06)
 
-### [👊 웹페이지 바로가기](final-project-b1.vercel.app)
+### [👊 웹페이지 바로가기](https://final-project-b1.vercel.app)
 
 ### [💜 프론트엔드 깃허브 바로가기](https://github.com/0dytpq0/final-project-b1)
 
@@ -94,17 +101,6 @@
 
 <br><br>
 
-## 🚨 Trouble Shooting
-
-### ◻ FE
-
-<br><br>
-
-## :raising_hand::thought_balloon: Concern
-
-### ◻ FE
-
-<br><br>
 
 ## 🌐 Architecture
 
